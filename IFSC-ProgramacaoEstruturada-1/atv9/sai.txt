@@ -1,0 +1,4 @@
+nome: ota: maior de idade
+nome: mu: menor de idade
+nome: art: maior de idade
+nome: ka: entrando na maior idade

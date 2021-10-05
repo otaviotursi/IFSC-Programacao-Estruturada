@@ -1,0 +1,12 @@
+matricula: 9999: nota: 10
+matricula: 42342: nota: 3
+matricula: 2132114: nota: 6
+matricula: 2432: nota: 2
+matricula: 123211: nota: 2
+matricula: 2312: nota: 4
+matricula: 241: nota: 45
+matricula: 4332432: nota: 9
+matricula: 49238432: nota: 1
+matricula: 234324: nota: 23
+matricula: 11604816: nota: 0
+nome: ota: maior de idade

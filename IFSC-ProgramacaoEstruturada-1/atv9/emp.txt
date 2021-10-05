@@ -1,0 +1,8 @@
+profissao: wef. tempo de servico: 1
+profissao: fdb. tempo de servico: 23
+profissao: cab. tempo de servico: 10
+profissao: oli. tempo de servico: 29
+profissao: wnfeiowje. tempo de servico: 12
+profissao: fweklwefkwl. tempo de servico: 0
+profissao: profi. tempo de servico: 1
+profissao: fwfw. tempo de servico: 4
