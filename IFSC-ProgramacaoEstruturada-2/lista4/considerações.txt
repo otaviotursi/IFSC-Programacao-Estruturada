@@ -1,0 +1,6 @@
+O selection é O(n2) lento, mas não é seu maior problema.
+
+O problema está em como é feito a verificação entre menores e maiores numeros, mais especificamente, em numeros iguais.
+O código quando encontra essas situações ele somente troca as posições desses valores, e não ordena em ordem de ocorrencias. 
+Exemplo: Array = { 1a, 2, 4, 1b }, com a ordenação por selection, ficará Array = { 1b, 1a, 2, 4 }.
+Ou sejá, ele troca a posição dos vetores.
